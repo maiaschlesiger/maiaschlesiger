@@ -1,23 +1,17 @@
-<img src="butterfly.gif" alt="Animated ASCII blue butterfly" align="left" width="46%">
-<h1>YOUR NAME</h1>
-<p><b>Product Design + Engineer</b></p>
-<p>COLLEGE NAME · Class of YEAR</p>
+<img src="butterfly.gif" alt="Animated ASCII blue butterfly" align="left" width="31%">
+<img src="text/name.svg" alt="YOUR NAME" width="102" height="24"><br>
+<img src="text/title.svg" alt="Product Design + Engineer" width="207" height="24"><br>
+<img src="text/school.svg" alt="COLLEGE NAME · Class of YEAR" width="252" height="24">
 <details>
-<summary><b>ROLE TITLE</b> · COMPANY</summary>
-<br>
-MONTH YEAR – Present<br>
-One or two lines on what you did and what it changed.
+<summary><img align="top" src="text/role1.svg" alt="ROLE TITLE · COMPANY" width="192" height="24"></summary>
+<img src="text/role1-details.svg" alt="MONTH YEAR – Present. One or two lines on what you did and what it changed." width="416" height="48">
 </details>
 <details>
-<summary><b>ROLE TITLE</b> · COMPANY</summary>
-<br>
-MONTH YEAR – MONTH YEAR<br>
-One or two lines on what you did and what it changed.
+<summary><img align="top" src="text/role2.svg" alt="ROLE TITLE · COMPANY" width="192" height="24"></summary>
+<img src="text/role2-details.svg" alt="MONTH YEAR – MONTH YEAR. One or two lines on what you did and what it changed." width="416" height="48">
 </details>
 <details>
-<summary><b>ROLE TITLE</b> · COMPANY</summary>
-<br>
-MONTH YEAR – MONTH YEAR<br>
-One or two lines on what you did and what it changed.
+<summary><img align="top" src="text/role3.svg" alt="ROLE TITLE · COMPANY" width="192" height="24"></summary>
+<img src="text/role3-details.svg" alt="MONTH YEAR – MONTH YEAR. One or two lines on what you did and what it changed." width="416" height="48">
 </details>
 <br clear="left">
